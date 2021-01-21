@@ -1,0 +1,17 @@
+.mainWrapper {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+main {
+    flex: 1;
+    padding: 10px;
+    overflow-y: auto;
+    height: 100vh;
+}
+
+header, footer {
+    background-color: lightgray;
+    padding: 10px 20px;
+}

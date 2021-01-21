@@ -1,0 +1,14 @@
+.movieListWrapper {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.movie {
+    border: 2px solid lightgray;
+    border-radius: 10px;
+    width: 25%;
+    height: 100%;
+    margin: 20px;
+}

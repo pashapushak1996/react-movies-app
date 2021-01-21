@@ -1,0 +1,10 @@
+.btnWatch {
+    text-decoration: none;
+    color: lightcoral;
+    font-size: 35px;
+}
+.btnWatch:hover {
+    color: darkmagenta;
+    font-size: 40px;
+    transition: font-size 1s;
+}
